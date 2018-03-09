@@ -1,6 +1,7 @@
 public class User {
 
     private Integer id;
+
     public User() {
     }
 
@@ -11,6 +12,5 @@ public class User {
     public void setId(Integer id) {
         this.id = id;
     }
-
 
 }
